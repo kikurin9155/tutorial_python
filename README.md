@@ -37,3 +37,6 @@ Pythonの内部的な実装はあまり扱わず，Pythonによるコーディ�
 - [Jake VanderPlas "Python Data Science Handbook"](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [Problem Solving with Algorithms and Data Structures using Python](https://interactivepython.org/runestone/static/pythonds/index.html)
 
+## 追加部分
+- assignmentsのMyRegression.pyに自分が作成したモデルを書いてます
+- textの中にMyLinearRegression.ipnbを追加しています。自分で作成したモデルを使用して学習した実行部分が書いてあります。
